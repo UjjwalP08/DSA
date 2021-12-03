@@ -1,0 +1,27 @@
+For check the file use 
+-------> git status <-------
+
+for add untrack file use
+-------> git add . <-------
+
+for commit file use
+-------> git commit -m "your msg" <-------
+
+for push master directory use
+-------> git push -u remote_name master <-------
+
+for make gitignore file use
+-------> touch .gitignore <-------
+
+in git ignore u want to ignore file 
+
+i) Just write it's name in .gitignore file and save it
+ii) if there are multiple files then write(*.file_extenstion ) and save it
+iii) to ignore the folder use -------> folder_name/ <-------
+
+
+create branch in git use
+-------> git branch branch_name <-------
+
+Switch the branch in git use
+-------> git checkout branch_name <-------
