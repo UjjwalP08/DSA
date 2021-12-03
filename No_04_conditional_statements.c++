@@ -16,7 +16,7 @@ int main()
     int c;
     cout << "Enter the value of c:- ";
     cin >> c;
-    // if(condition)
+    // ----------------> if(condition) <----------------
     // {
     //      code
     //      }
@@ -26,7 +26,7 @@ int main()
     //     cout <<   "a is bigger"   ;
     // }
 
-    // if-else
+    // ----------------> if-else <----------------
 
     // if(a>b)
     // {
@@ -37,7 +37,7 @@ int main()
     // cout <<   "b is bigger"   ;
     // }
 
-    //  Nested if-else
+    // ----------------> Nested if-else <----------------
 
     // if (a > b)
     // {
@@ -61,7 +61,7 @@ int main()
     //         cout << "C is bigger";
     //     }
 
-    // Else if
+    // ----------------> Else if <----------------
 
     // if (a > 0)
     // {
@@ -75,8 +75,6 @@ int main()
     // {
     //     cout << "A value is 0";
     // }
-
-
 
     return 0;
 }

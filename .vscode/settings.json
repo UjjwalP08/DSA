@@ -7,5 +7,6 @@
     "code-runner.saveFileBeforeRun": true,
     "code-runner.runInTerminal": true,
     "code-runner.saveAllFilesBeforeRun": true,
-    "terminal.integrated.cursorBlinking": true
+    "terminal.integrated.cursorBlinking": true,
+    "C_Cpp.errorSquiggles": "Disabled"
 }

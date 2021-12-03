@@ -18,7 +18,7 @@ int main()
     //      i++;
     //  }
 
-    //------------>  Print the sum of first n numbers
+    //------------>  Print the sum of first n numbers <----------------
     // int sum = 0;
 
     // while (i <= n)
@@ -28,7 +28,7 @@ int main()
     // }
     // cout << sum;
 
-    // ------------> check the given No is prime or not
+    // ------------> check the given No is prime or not <----------------
 
 // becoz 1 is not the prime number
     int j = 2;
