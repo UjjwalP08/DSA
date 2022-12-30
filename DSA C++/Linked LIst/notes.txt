@@ -1,0 +1,9 @@
+Linked List:- type of data structure which is created using collection of nodes and in the node contain the data and the address of next node
+
+adv:- created in run time,insertion deletion updation operations are easy compare to array and vector
+
+types:
+i)   Singliy Linked List
+ii)  Doubly Linked List
+iii) Circular singliy Linked List
+iv)  Circular Doubly Linked List

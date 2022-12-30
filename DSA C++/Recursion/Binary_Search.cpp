@@ -13,7 +13,7 @@ void print(int arr[],int start,int end)
 bool binarySearch(int arr[],int start,int end,int key)
 {
 
-    print(arr,start,end);
+    // print(arr,start,end);
 
     int mid = start + (end-start)/2;
 

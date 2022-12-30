@@ -1,0 +1,12 @@
+learn About Class
+learm About Objects and It's behaviour
+learn About Obj Initalizatiion (Static and Dynamically)
+Learn about Access Modifires (Public and Private ) and how to access them
+Learn About Setters and Getters
+Learn About Differnt Types Of Constructors
+Learn About Deep and Shllow Copy
+Learn About this Keyword
+Learn About Assignment Opereator
+Learn About Static Keyword
+learn About Destructor
+Learn About Static Function
